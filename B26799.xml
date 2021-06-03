@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for the chymists or non-colegiats: or, Considerations natural, rational, and legal, in relation to medicines.</title>
+            <author>Merry, Nathaniel.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26799</idno><idno type="EEBO-CITATION">99888769</idno>
+  <idno type="VID">203987</idno>
+  <idno type="EEBO-PROQUEST">2240901953</idno>
+  
+            <idno type="STC">Wing M1849</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.k.16.[41]</idno>
+            <idno type="STC">ESTC R231888</idno>
+            <idno type="PROQUEST">ocm99888769</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888769e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203987)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:3[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for the chymists or non-colegiats: or, Considerations natural, rational, and legal, in relation to medicines.</title>
+                  <author>Merry, Nathaniel.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author Nat. Merry at the Star in Bow-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, affecting print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Royal College of Physicians of London --  England --  Early works to 1800.</term>
+               <term type="topical_term">Chemistry --  Early works to 1800.</term>
+               <term type="topical_term">Pharmaceutical ethics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medical laws and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Charters, grants, privileges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:203987:1"/>
+            <head>A PLEA FOR THE Chymists or Non-Colegiats: OR, CONSIDERATIONS Natural, Rational, and Legal, in Relation to <hi>MEDICINES.</hi>
+            </head>
+            <p>NAture being the Genetrix of all things, hath at all times and seasons like a careful Mother brought forth Remedies for the Disease<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ and also Persons and Physicians to Communicate or Administer them to Mankind; as 'tis written, <hi>God Createth the Physician:</hi> So that Naturally Medicines and Physicians are not the pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>duct of Art or Societes, because they were in the World long before Academies and Colledges, and were manifested in single Persons, such as <hi>Escula<g ref="char:EOLhyphen"/>pius, Mac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aan, Hippocrates,</hi> &amp;c. when there was no other Guide or Teacher, but the Ins<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inct or Perception of Nature, by which they arrived to that great Distinction and Natural Knowledg in Heal<g ref="char:EOLhyphen"/>ing; which Universities and Schools have since e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deavoured to imitate onely by a bare remembrance of what was done: but the path of these Men no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being found, notwithstanding the Associations of the Schools and Colledges, no Improvements wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made in Medicines for Two th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sand years.</p>
+            <p>
+               <hi>Paracelsus</hi> having forsaken his Scholastick Tenet<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by following the light of N<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e, did more unvail the secrets <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ereof in his single person, than all M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that ever went before him and after him, <hi>Suchten, Basilius</hi> and <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmont</hi> have demonstrated the Tru<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereof. And seeing that Dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ases at this da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are so multiplied <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> changed, and complicated, that the Method and Medicines of the Ancients are of lit<g ref="char:EOLhyphen"/>tle or no eff<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t for their Cure, must not every Ing<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ious Person conclude it better, to follow the Dictates of Nature i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>finding her own Path, to discern the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eanders of corrupting diseasifying Spirits, than <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o believe tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Noise or Crowd of Lip learned M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n (who seek to destroy all those who do not adhere to them) sho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d be able to guide them.</p>
+            <p>The Let<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Pa<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> granted by King <hi>Hen.</hi> VI<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ to the Colledge of Physicians in <hi>London▪</hi> and their Confirmati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by Parliament (if ever any su<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) appear to be intended only for the preservation of the Kings <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>jects, from such Evils and Mi<gap reason="illegible" resp="#murp" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> as might befall them under the pretence of Physick, either by the Malice or Ignorance of those who administred it; and not s<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon Nature, to damn or prohibit all future search and improvement of Medicine, for Humane Pre<g ref="char:EOLhyphen"/>servation, or to bind the people to an Empty Method (so much wanting in the cure of most Diseases, as many chuse Death rather than it) or purposely for the raising of a few Men to great Riches and Grandeur, much less that they should ever be interpreted, to suppress, stop, or hinder the use of a fitter Method, and better Medicines. Especially seeing most Diseases are long ago removed from their old Adaptions, through their several Changes and Complications; that it is disputable, Whether there be one true natural Remedy in all the heap of the Vulgar Medicines?</p>
+            <p>Now if they cannot make it appear, That those which they trouble and vex at the Law, are guilty of any Male Practice, that is, of Mischiefing any of the Kings Subjects, either through wilfulness or want of Understanding in what they profess; do not they manifestly pervert and elude the end and de<g ref="char:EOLhyphen"/>sign of the Law, and make it wholly subservient to their own Gain and Grandeur? Besides, most of the Men they sue are Chymists, and upon a due Enquiry it will be found, that all the Adaequate or fit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>provements that hath been made in Physick since the first Constitution of their Colledge (here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as well as elsewhere) hath proceeded from the Industry of the Chymist only; I speak of such Improve<g ref="char:EOLhyphen"/>ments as hath furnish'd us with more answerable and fitter Medicines and R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quisites for the healing of Diseases: such being things as are really and naturally servicable to Mankind, Their Anatomical Dis<g ref="char:EOLhyphen"/>coveries (of which they so much boast) serving only for Ostentation and Artificial Discourse, being as necessary for the curing of internal Diseases, as painted Glass is in a Window, for the Advancement of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight.</p>
+            <p>When their Letters Patents was granted, Chymistry was not known here, and therefore could not by them be pre-judged, nor can it reasonably be supposed that their Charter should have any more force against the Chymists, than those of the Fletchers, Bowyers, and Bow-string Makers, could have against Guns an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gun smiths, which had no being when their Charters were granted; and therefore when they came into use, could be accounted no infringement of their Charters▪ not being the same thing as Bowyers made, though to be used for the same end. Even so it is between the Col<g ref="char:EOLhyphen"/>ledg and the Chymists; for as J have already said, the Colledges Grant never intended to hinder the Improvement of Physick by any way or ingenuity which should afterwards arise, and not known to that present Age (no more than the Bowyers Charter was designed to prevent the invention of new Jnstru<g ref="char:EOLhyphen"/>ments of War and such is Chymist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, which al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough it indeed tendeth to the same end) with the Colledges practice, to wit, the healing of Diseases, yet it maketh not use of the same Means. For Chymists make no use of their Method or Medicines, but imploy their own▪ which differ as much from what theirs was at their Constitution, as a Gun from a Bow. And if the Colledge at this day have bet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered their Medicines, have they not been obliged to Chymists for it? Witness divers of the <hi>Receip's</hi> in their Dispensatory, which they have taken from <hi>Paracelsus, Basilius, Quciritan,</hi> &amp;c. whose names they have been so unkind for the most part to conceal, being willing to assume that to themselves which is really due to such men as they trouble: How frequently do they use <hi>Crocus Metallorum, Antimonium,
+<pb n="2" facs="tcp:203987:2"/> Diapnoreticum▪</hi> and few years since <hi>Bezoardicum Minerale</hi> in Malignant Fevors, neither of which are their own Invention, but are the Remedies of <hi>Basilius</hi> and <hi>Crollius,</hi> who were Chymists; although indeed those and other Chymical Remedies, which they use (and on which they much rely in Chronick Dis<g ref="char:EOLhyphen"/>eases, where they know their own will do nothing) are known to the Chymists of these days (who have made Improvement) to be none of the best Medicines. But supposing them to be as good as any this day known, is it not highly unreasonable that those who are but <hi>Plagiaries</hi> should be the more esteem<g ref="char:EOLhyphen"/>ed on their account, when the Off-spring of Chymists, those Men who constantly labour in the Fire, and are the Inventors of Medicines, shall be slighted, contemned, and vexed at the <hi>Law</hi> for so doing? How should Medicines be improved, if the Inventors and Makers of Medicines may not when they have made them, use them for the benefit of Diseased People? If it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e objected, They ought when made, to be prescribed by a Learned Doctor; J answer that the Doctors are not willing to prescribe a step out of their own beaten Path; and if any be found so generous, yet it could be to no more purpose than for one who understands nothing of the making a Clock or Watch, to order the Watch-maker how to handle his Too<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or to make a Move<g ref="char:EOLhyphen"/>ment: for believe this for a certain truth, That no Man who is sufficiently grounded in Nature, for the bringing forth any true Medicine, can want a Capacity to admini<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter it.</p>
+            <p>Hence it appears that it is as Rational for a Man that hath obtained true Medicine, to give to him that stands in need thereof, as to give Bread to the hungry; and true Medicine is as safe as Food, and much more useful, when Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure requires it.</p>
+            <p>Notwithstanding I am a Legal Physician, neither do they Prosecute me as Illegal, or for Male Practice; but for Practising within their Limits; for which they say, they have a Law: which doth not yet appear. But suppose it be a Law, one would will<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngly know who should cure those that they cannot, and also say they cannot cure them: Surely they have no Law to forbid all men, or any body else, to heal or cure those that they cannot? If they have, I confess ingeniously I have broken it many times, not only when they have said they could not cure the Parties, but also that it was impossible that any body else should.</p>
+            <p>And many of the Catalogue of Incurables J have cured; so that my Prosecution is purely for doing good, which these Men will in time to come, be ashamed of. If the Magistrate would, for the Benefit and Preservation of his Majesties Subjects, require a publick Probate of our Method and Medicines up<g ref="char:EOLhyphen"/>on the Sick taken out of Hospitals, it would quickly appear where the Fitter Method and Fitter Medi<g ref="char:EOLhyphen"/>cines lay.</p>
+            <p>Because they see that I Cure divers Distempers, with one, two, three, four, or a few Medicines, they cry he hath but one Medicine; trul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with one Good Medicine, one may soon do more than they can with the whole heap of Farraginous, Useless, Feculent and Truculent Medicines; yet I may justly pretend to more variety than they, although J hate to make use of any thing that is not really serviceable to Hu<g ref="char:EOLhyphen"/>mane Nature, or to give two Medicines where one will serve, or three where two will be sufficient; or to make an Apothecaries Shop of my Patients Chamber, to inflame the Reckoning, or to destroy the Virtue and Power of the good Medicine, if there be one good amongst them, with a heap of insignificants, which serve onely to open the gate.</p>
+            <p>For the Remedies they prescribe, are for the most part Bodies or Subjects clog'd with their Terrene Parts, Crudities, and Excrements, by which they become burdensome to the Sick, which they should as<g ref="char:EOLhyphen"/>sist. When on the contrary, those Men that walk in Natures Path in preparing their Medicines; make such separation of all their Impurities and Defilements, and do so set at liberty and advance their Innate Vir<g ref="char:EOLhyphen"/>tues, as renders them capable of communicating their Efficacy to the languishing Spirits (which needs not variety but a fit adaption) without burthening or nauceating of Nature; and to hinder such Im<g ref="char:EOLhyphen"/>provements in Medicine, is to limi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and set bounds to Nature (which is always free and bountiful to Industrious Searchers) and to de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the painful Bee the use of the Honey which her self hath made: nei<g ref="char:EOLhyphen"/>ther doth such an unnatural restriction onely affect the Diligent Searchers into Medicine, but it extends it self farther, even to all men in general: for if People may not have the liberty to make choice of what Physicians or Medicines they please▪ then must the Natural Ties of Friendship be violated, and the Father cannot do for the Child, nor the Child for the Father, nor one Friend for another, what they would; the which was never designed by Nature, or intended by any Law.</p>
+            <p>Furthermore, 'Tis strange to thinking Men, that Gentlemen of such Education and Learning, bearing that Figure in the World which they do; should be so blind, as not to consider the doubtfulness of that Law by which they excercise Authority to trouble Men; seeing 'tis certainly known that in the Cases of <hi>Barker, Read, Tri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g</hi> and others, above Twenty Years ago, they were foil'd; for in the Trial of <hi>Barker,</hi> before Judge <hi>Nicols,</hi> the Role being brought into Court on the Defendants behalf, he was acquitted. And when the others were tried before the Lord Chief J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stice, <hi>St John,</hi> he declared to them, That to make that an Act of Parliament, they must call King <hi>Henry</hi> out of his Grave to Sign it.</p>
+            <p>And of late Years hath not <hi>Fletcher, Trigg, Harder,</hi> &amp;c. upon the same doubts been referr'd to a Spe<g ref="char:EOLhyphen"/>cial Verdict, which is yet undecided, the Jury not being willing to i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>termeddle therewith. Yet, as if these Men were insensible of all things done, they are vexatious to Men of Industry, whose Reasons of not submiting to them they neither have nor vvill scan; nor is it probable they should, vvho take no other measure for their Judgment, but their pretended, and as yet undetermined Lavv.</p>
+            <p>Very much more J have to say to shevv the Unreasonableness of these Proceedings, but J refer it to a Book vvhich J intend to Publish, if God give me Life and Health, in order to the Vindication, Manifesta<g ref="char:EOLhyphen"/>tion, Usefulness, Benefit, Safety and Necessity of Chymistry to eradicate Diseases: And the Uselessness, Unprofitableness, Unfitness, Hurtfulness and Dammage (to Humane Nature) of most of the Common Me<g ref="char:EOLhyphen"/>dicines novv in use.</p>
+            <p>Suppose some of the Council or Judges being Sick, could not be Cured by the <hi>Colledge,</hi> will the <hi>Colledge</hi> say they ought to be contented to die, rather than obtain Cure by any body else? Or will these Gentlemen be contented to die a Sacrifice to them, rather than subm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to the Cure from a Chymist that can perform it?</p>
+            <p>Presume there were a <hi>Law</hi> made (when there was no better Medicine) known to prevent damage and hurt to the Kings Subjects, will that <hi>Law</hi> serve to prohibit the preservation of the life of the Kings Sub<g ref="char:EOLhyphen"/>jects when there is fitter and better Medicines Discover'd? Moreover we cannot find that the <hi>Law</hi> they pretend to and sue by, was ever Sign'd or had the Royal Assent</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author <hi>Nat. Merry</hi> at the <hi>Star</hi> in <hi>Bow-lane,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
